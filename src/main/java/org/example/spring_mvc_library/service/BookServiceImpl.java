@@ -5,9 +5,7 @@ import lombok.RequiredArgsConstructor;
 import org.example.spring_mvc_library.models.Book;
 import org.example.spring_mvc_library.repository.BookRepository;
 import org.springframework.data.domain.Page;
-import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
-import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
 @Service
